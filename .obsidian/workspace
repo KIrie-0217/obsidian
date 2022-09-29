@@ -7,12 +7,8 @@
         "id": "4f4179aa1673f911",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021秋.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021秋.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021秋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2021秋.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -130,7 +122,11 @@
   },
   "active": "4f4179aa1673f911",
   "lastOpenFiles": [
-    "2020秋.md",
-    "2021秋.md"
+    "embeded/2018春.md",
+    "README.md",
+    "2022-09-29.md",
+    "embeded/2021秋.md",
+    "embeded/2020秋.md",
+    "embeded/2019春.md"
   ]
 }
